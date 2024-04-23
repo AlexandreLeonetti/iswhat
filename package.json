@@ -1,0 +1,24 @@
+{
+  "name": "@leonetti/iswhat",
+  "version": "0.0.1",
+  "description": "strict  check",
+  "repository": "alexandreleonetti/iswhat",
+  "type": "module",
+	"exports": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  	"files": [
+		"dist"
+	],
+	"keywords": [
+		"type",
+		"types"
+  ],
+  "author":{
+		"name": "Alex Leonetti",
+		"url": "https://github.com/AlexandreLeonetti"
+	},
+  "license": "ISC"
+}
